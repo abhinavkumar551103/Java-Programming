@@ -12,13 +12,17 @@ class RectangeDriver{
         rec1.nameRectangle(1);
         rec1.getDetails();
         rec1.printArea();
-        rec.printPerimeter();
+        rec1.printPerimeter();
         
         rec2.nameRectangle(2);
         rec2.getDetails();
+        rec2.printArea();
+        rec2.printPerimeter();
         
         rec3.nameRectangle(3);
         rec3.getDetails();
+        rec3.printArea();
+        rec3.printPerimeter();
 
     }
 }
