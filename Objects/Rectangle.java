@@ -19,7 +19,7 @@ class Rectangle {
     public void printArea(){
         System.out.println("The area of the rectange is :"+length*width);
     }
-    public
-
-
+    public void printPerimeter(){
+        System.out.println("The perimeter of a rectange is :"+2*(length+width));
+    }
 }
