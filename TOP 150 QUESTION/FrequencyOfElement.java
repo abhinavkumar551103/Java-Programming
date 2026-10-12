@@ -1,6 +1,6 @@
 class FrequencyOfElement {
     public static void main(String[] args) {
-        int[] arr = { 10, 20, 22, 22, 15, 16, 15, 16, 9, 26, 28, 15, 21, 10, 20, 15, 18, 28, 9, 15 };
+        int[] arr = { 10, 20, 22, 22, 15, 16, 15, 16, 9, 26, 28, 15, 21, 10, 20, 15, 18, 28, 9, 15, 18};
         int min = 0, max = 0;
 
         for (int n : arr) {
