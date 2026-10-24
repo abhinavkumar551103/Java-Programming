@@ -1,0 +1,51 @@
+Topic Method return:
+
+
+1. Write a java program to design a method which will accept three
+numbers and will return the average of three numbers.
+2. Write a java program to design a method which will accept the price
+of a shirt and the % discount value and will return the discounted
+price.
+3. Write a Java program to design a method which will accept two
+numbers and return the greater number.
+4. Write a Java program to design a method which will accept two
+numbers and return the smaller number.
+5. Write a Java program to design a method which will accept a number
+and return its square.
+6. Write a Java program to design a method which will accept a number
+and return its cube.
+7. Write a Java program to design a method which will accept a number
+and return the last digit of number.
+8. Write a Java program to design a method which will accept a number
+and return the new number with the last digit removed.
+
+QSpiders| JSpiders Shambhu Kumar
+9. Write a Java program to design a method which will accept the radius
+of a circle and return the area of the circle.
+10.Write a Java program to design a method which will accept the length
+and breadth of a rectangle and return the area.
+11.Write a Java program to design a method which will accept the side
+of a square and return the perimeter.
+12.Write a Java program to design a method which will accept the marks
+of 5 subjects and return the percentage.
+13.Write a Java program to design a method which will accept the basic
+salary and return the annual salary.
+14.Write a Java program to design a method which will accept
+temperature in Celsius and return temperature in Fahrenheit.
+15.Write a Java program to design a method which will accept
+temperature in Fahrenheit and return temperature in Celsius.
+16.Write a Java program to design a method which will accept a number
+and return whether it is even or odd.
+17.Write a Java program to design a method which will accept the
+quantity and price of a product and return the total bill amount.
+18.Write a Java program to design a method which will accept the total
+bill amount and GST percentage and return the final amount.
+19.Design a class along with states and get method for:
+i) Rectangle
+j) Square
+k) Circle
+l) Sphere
+m) Cylinder
+n) Cube
+o) Cuboid
+p) Hemisphere
